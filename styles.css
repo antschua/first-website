@@ -27,3 +27,9 @@ body {
 p {
   color: forestgreen;
 }
+
+.box {
+      width: 100px;
+      height: 100px;
+      background-color: skyblue
+    }
